@@ -72,4 +72,3 @@ For example workflow runs, check out the
 | ------ | ----------------------- |
 | `time` | The time we greeted you |
 
-This line was added by Tamar
