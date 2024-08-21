@@ -7,7 +7,7 @@ This action prints `Hello, World!` or `Hello, <who-to-greet>!` to the log. To
 learn how this action was built, see
 [Creating a JavaScript action](https://docs.github.com/en/actions/creating-actions/creating-a-javascript-action).
 
-## Create Your Own Action
+## Create Your Own Action!
 
 To create your own action, you can use this repository as a template! 
 Just follow the below instructions:
