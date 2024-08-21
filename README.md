@@ -68,6 +68,8 @@ For example workflow runs, check out the
 
 ## Outputs
 
+This line was added by Tamar
+
 | Output | Description             |
 | ------ | ----------------------- |
 | `time` | The time we greeted you |
